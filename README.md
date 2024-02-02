@@ -1,5 +1,5 @@
-<h1>Hi, I'm Marco! Cybersecurity Professional</h1>
-
+<h1>Hi, I'm Marco Smith! </h1>
+<h1>Cybersecurity Student</h1>
 <h2>👨‍💻 My Projects and Labs:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
