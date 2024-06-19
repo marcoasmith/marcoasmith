@@ -12,6 +12,8 @@
 
 <h2>Medium Articles:</h2>
 
+- <b>Cloud Computing</b>
+  - [The Cloud's Significance: Why Cloud Computing is More Than Just a Buzzword](https://medium.com/@marcosmith9000/the-clouds-significance-why-cloud-computing-is-more-than-just-a-buzzword-246a264411b3)
 
 
 
