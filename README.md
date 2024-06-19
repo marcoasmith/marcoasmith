@@ -15,16 +15,14 @@
 
 
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/_marco_smith_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daycyberwox" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/marcoasmith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abisolajohnson" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_marco_smith_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daycyberwox" height="30" width="40" /></a>
 <a href="https://discord.gg/1043346088838570014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QWW2wSdDmD" height="40" width="40" /></a>
-</p>
+<a href="https://medium.com/https://medium.com/@marcosmith9000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@marcosmith9000" height="30" width="40" /></a>
+
 
 
 
