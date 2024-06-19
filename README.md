@@ -6,7 +6,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/marcoasmith/Cloud-SOC)
 
 - <b>Wireshark Lab</b>
-  - [Packet-Capturing](https://github.com/marcoasmith/Packet-Capturing)
+  - [Filtering Packet Captures](https://github.com/marcoasmith/Packet-Capturing)
 
 
 
