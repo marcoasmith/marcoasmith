@@ -14,7 +14,8 @@
 
 - <b>Cloud Computing</b>
   - [The Cloud's Significance: Why Cloud Computing is More Than Just a Buzzword](https://medium.com/@marcosmith9000/the-clouds-significance-why-cloud-computing-is-more-than-just-a-buzzword-246a264411b3)
-
+- <b>Cybersecurity</b>
+  - [The Ransomware Epidemic: A Survival Guide for Businesses](https://medium.com/@marcosmith9000/the-ransomware-epidemic-a-survival-guide-for-businesses-7b388295bc74)
 
 
 <h3 align="left">Connect with me:</h3>
