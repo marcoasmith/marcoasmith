@@ -5,11 +5,16 @@
 - <b>Azure Cybersecurity Project</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/marcoasmith/Cloud-SOC)
 
-- <b>Wireshark Lab</b>
-  - [Filtering Packet Captures](https://github.com/marcoasmith/Packet-Capturing)
 
 - <b>Implementing Active Directory</b>
   - [Adding Users With Powershell](https://github.com/marcoasmith/ActiveDirectoryLab)
+
+
+
+- <b>Wireshark Lab</b>
+  - [Filtering Packet Captures](https://github.com/marcoasmith/Packet-Capturing)
+
+
 
 <h2>Medium Articles:</h2>
 
