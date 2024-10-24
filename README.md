@@ -2,7 +2,7 @@
 <h1>IT & Cybersecurity Enthusiast</h1>
 <h2>My Projects and Labs:</h2>
 
-- <b>Azure Cybersecurity Project</b>
+- <b>Networks in Azure</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/marcoasmith/Cloud-SOC)
 
 
