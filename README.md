@@ -1,5 +1,5 @@
 <h1>Hi, I'm Marco Smith! </h1>
-<h1>IT & Cybersecurity Enthusiast</h1>
+<h1>IT Professional</h1>
 <h2>My Projects and Labs:</h2>
 
 - <b>Networks in Azure</b>
