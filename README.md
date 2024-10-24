@@ -7,16 +7,16 @@
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marcoasmith/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marcoasmith/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
-- <b>Implementing Active Directory</b>
-  - [Adding Users With Powershell](https://github.com/marcoasmith/ActiveDirectoryLab)
 
 
 
-- <b>Wireshark Lab</b>
-  - [Filtering Packet Captures](https://github.com/marcoasmith/Packet-Capturing)
+
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-
+  - [osTicket: Prerequisites and Installation](https://github.com/nemesioit/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/nemesioit/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/nemesioit/ticket-lifecycle)
 
 
 
