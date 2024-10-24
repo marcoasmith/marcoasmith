@@ -4,7 +4,7 @@
 
 - <b>Networks in Azure</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/marcoasmith/Cloud-SOC)
-   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marcoasmith/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 - <b>Implementing Active Directory</b>
   - [Adding Users With Powershell](https://github.com/marcoasmith/ActiveDirectoryLab)
