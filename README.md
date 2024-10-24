@@ -3,8 +3,9 @@
 <h2>My Projects and Labs:</h2>
 
 - <b>Networks in Azure</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/marcoasmith/Cloud-SOC)
+   - [Creating a Live SOC / Honeynet in Azure](https://github.com/marcoasmith/Cloud-SOC)
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marcoasmith/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/nemesioit/configure-ad)
 
 - <b>Implementing Active Directory</b>
   - [Adding Users With Powershell](https://github.com/marcoasmith/ActiveDirectoryLab)
