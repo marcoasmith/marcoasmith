@@ -2,7 +2,7 @@
 <h1>IT Professional</h1>
 <h2>My Projects and Labs:</h2>
 
-- <b>Networks in Azure</b>
+- <b>Microsoft Azure</b>
    - [Creating a Live SOC / Honeynet in Azure](https://github.com/marcoasmith/Cloud-SOC)
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marcoasmith/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marcoasmith/Configuring-On-premises-Active-Directory-within-Azure-VMs)
