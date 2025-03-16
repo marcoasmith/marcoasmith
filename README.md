@@ -19,8 +19,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/marcoasmith/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/marcoasmith/osTicket-Ticket-Lifecycle-Examples)
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/marcoasmith/osTicket---Prerequisites-and-Installation)
+- <b> OpenVas</b>
+  - [Vulnerability Management Scan](https://github.com/marcoasmith/Vulnerability-Management)
 
 
 <h3 align="left">Connect with me:</h3>
