@@ -23,7 +23,7 @@
   - [Vulnerability Management Scan](https://github.com/marcoasmith/Vulnerability-Management)
 
 - <b> Python Scripting</b>
-  - [Keylogger Educational](https://github.com/marcoasmith/Vulnerability-Management)
+  - [Keylogger Educational](https://github.com/marcoasmith/Keylogger-Educational)
 
 
 
