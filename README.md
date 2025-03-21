@@ -22,6 +22,11 @@
 - <b> OpenVas</b>
   - [Vulnerability Management Scan](https://github.com/marcoasmith/Vulnerability-Management)
 
+- <b> Python Scripting</b>
+  - [Keylogger Educational](https://github.com/marcoasmith/Vulnerability-Management)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
