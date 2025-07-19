@@ -26,7 +26,7 @@
   - [Keylogger Educational](https://github.com/marcoasmith/Keylogger-Educational)
 
 - <b> Networks </b>
-  - [VLAN Routing with OSPF and ACLs](https://github.com/marcoasmith/Keylogger-Educational)
+  - [VLAN Routing with OSPF and ACLs](https://github.com/marcoasmith/VLAN-Routing-with-OSPF-and-ACLs)
 
 
 <h3 align="left">Connect with me:</h3>
