@@ -3,8 +3,8 @@
 <h2>My Projects and Labs:</h2>
 
 - <b>Microsoft Azure</b>
+   - [Active-Directory-Entra-ID-Hybrid-IAM-Implementation](https://github.com/marcoasmith/Active-Directory-Entra-ID-Hybrid-IAM-Implementation)
    - [Creating a Live SOC / Honeynet in Azure](https://github.com/marcoasmith/Cloud-SOC)
-   -  [Creating a Live SOC / Honeynet in Azure](https://github.com/marcoasmith/Cloud-SOC)
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marcoasmith/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marcoasmith/Configuring-On-premises-Active-Directory-within-Azure-VMs)
    - [Network-File-Shares-and-Permissions](https://github.com/marcoasmith/Network-File-Shares-and-Permissions)
