@@ -13,8 +13,7 @@
 - <b>Okta</b>
    - [Multi-IdP-Identity-Governance-Lab-Okta-AD-Entra-ID](https://github.com/marcoasmith/Multi-IdP-Identity-Governance-Lab-Okta-AD-Entra-ID)
 
-- <b>Sailpoint</b>
-   - [SailPoint IdentityIQ Access Certification & Entitlement Governance Lab](https://github.com/marcoasmith/SailPoint-IIQ-Access-Certification-Lab)
+
 
 
 
